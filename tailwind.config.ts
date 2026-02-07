@@ -1,0 +1,105 @@
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+  darkMode: "class",
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: "1.5rem",
+        sm: "2rem",
+        md: "2.5rem",
+        lg: "3rem",
+        xl: "3rem",
+        "2xl": "3rem",
+      },
+      screens: {
+        sm: "640px",
+        md: "768px",
+        lg: "1024px",
+        xl: "1280px",
+        "2xl": "1440px",
+      },
+    },
+    extend: {
+      fontFamily: {
+        sans: ["var(--font-inter)", "ui-sans-serif", "system-ui", "sans-serif"],
+      },
+      colors: {
+        primary: {
+          900: "#F7F1FD",
+          800: "#E0C8F8",
+          700: "#C496F2",
+          600: "#A864EC",
+          500: "#811FE4",
+          400: "#6D18C4",
+          300: "#5B14A4",
+          200: "#3D0D6D",
+          100: "#1E0737",
+          0: "#0D0317",
+        },
+        neutral: {
+          900: "#FAFAFA",
+          996: "#F5F4F6",
+          995: "#F2F2F3",
+          992: "#EBE9EC",
+          800: "#E3E1E5",
+          750: "#CCC9CF",
+          700: "#BDB9C1",
+          600: "#9E98A4",
+          500: "#7D7584",
+          400: "#5C5661",
+          300: "#4D4851",
+          200: "#363239",
+          160: "#29272B",
+          100: "#1F1D20",
+          75: "#1A181B",
+          50: "#141316",
+          0: "#0B0A0B",
+        },
+        secondary: {
+          900: "#F0FFF0",
+          800: "#C3FEC3",
+          700: "#83FD84",
+          600: "#34D399",
+        },
+        tertiary: {
+          900: "#FBFFF0",
+          800: "#EDFFC2",
+          700: "#DDFE8A",
+          600: "#CEFE58",
+          500: "#B8FE0C",
+        },
+        state: {
+          completed: "#39B338",
+          error: "#E54D5C",
+          live: "#EE2B3F",
+          upcoming: "#066BF9",
+        },
+        accent: {
+          lime: "#99FF33",
+          mutedGreen: "#669966",
+          yellow: "#FFFF00",
+          orange: "#FFCC33",
+          darkOrange: "#FF9900",
+          redOrange: "#FF6600",
+          pink: "#FF66FF",
+          magenta: "#FF3399",
+          cyan: "#00CCFF",
+          blue: "#0099FF",
+          royalBlue: "#3366FF",
+          navy: "#0066CC",
+        },
+        white: "#ffffff",
+        black: "#000000",
+      },
+    },
+  },
+  plugins: [],
+};
+
+export default config;
