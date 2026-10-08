@@ -143,6 +143,10 @@ const CRICKET_NEWS: NewsBySport = {
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "ODI Cricket: Is the Format Finding Its Feet Again?", excerpt: "Attendance, ratings and the innovations bringing 50-over cricket back into focus.", readTime: "4 Min Read" },
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "U19 World Cup: Stars of Tomorrow", excerpt: "The teenagers who lit up the junior World Cup and what's next for them.", readTime: "3 Min Read" },
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Cricket and Climate: How the Sport Is Adapting", excerpt: "Heat, rain and the sustainability push in stadiums and scheduling.", readTime: "6 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Bangladesh's Rising Stars: The Next Generation of Cricketers", excerpt: "Young talents from Bangladesh making waves in international cricket and domestic leagues.", readTime: "4 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "The Hundred 2025: Format Evolution and Fan Response", excerpt: "How England's innovative tournament is shaping up and what changes are coming for the next season.", readTime: "5 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Cricket Analytics: How Data Is Revolutionising Team Strategy", excerpt: "From field placements to batting order, the role of analytics in modern cricket decision-making.", readTime: "6 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Fastest Bowlers in World Cricket Right Now", excerpt: "A look at the pace merchants clocking 150+ kmph and terrorising batsmen across formats.", readTime: "4 Min Read" },
   ],
 };
 
