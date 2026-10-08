@@ -143,6 +143,10 @@ const CRICKET_NEWS: NewsBySport = {
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "ODI Cricket: Is the Format Finding Its Feet Again?", excerpt: "Attendance, ratings and the innovations bringing 50-over cricket back into focus.", readTime: "4 Min Read" },
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "U19 World Cup: Stars of Tomorrow", excerpt: "The teenagers who lit up the junior World Cup and what's next for them.", readTime: "3 Min Read" },
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Cricket and Climate: How the Sport Is Adapting", excerpt: "Heat, rain and the sustainability push in stadiums and scheduling.", readTime: "6 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Big Bash League: The T20 Carnival Down Under", excerpt: "How the BBL continues to innovate and entertain crowds across Australia every summer.", readTime: "5 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Cricket's Greatest Rivalries: Beyond the Ashes", excerpt: "From India-Pakistan to Australia-South Africa, the contests that define the sport.", readTime: "6 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "The Evolution of Cricket Bats: Tech Meets Tradition", excerpt: "How modern materials and designs are changing the game while respecting heritage.", readTime: "4 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Test Cricket's Revival: Why the Longest Format Still Matters", excerpt: "Record crowds, thrilling finishes and why Test cricket is thriving in 2025.", readTime: "7 Min Read" },
   ],
 };
 
