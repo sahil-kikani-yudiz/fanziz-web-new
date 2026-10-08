@@ -143,6 +143,10 @@ const CRICKET_NEWS: NewsBySport = {
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "ODI Cricket: Is the Format Finding Its Feet Again?", excerpt: "Attendance, ratings and the innovations bringing 50-over cricket back into focus.", readTime: "4 Min Read" },
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "U19 World Cup: Stars of Tomorrow", excerpt: "The teenagers who lit up the junior World Cup and what's next for them.", readTime: "3 Min Read" },
     { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Cricket and Climate: How the Sport Is Adapting", excerpt: "Heat, rain and the sustainability push in stadiums and scheduling.", readTime: "6 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Big Bash League 2025: Format Changes and Star Signings", excerpt: "New rules, overseas recruits and why this could be the most exciting season yet.", readTime: "4 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "The Art of Captaincy: Leadership Styles That Win Matches", excerpt: "From aggressive field placements to rotation policies, how the best skippers make the difference.", readTime: "5 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "Power-Play Trends: How T20 Batting Has Evolved", excerpt: "Strike rates, boundary percentages and the new approach dominating the first six overs.", readTime: "3 Min Read" },
+    { image: `${cricketImg}&w=600`, imageAlt: "Cricket", category: "Cricket", categoryColor: "bg-primary-500", title: "The Hundred 2025: Teams, Formats and What's New", excerpt: "Full squad lists, fixture dates and the innovations coming to the UK's newest competition.", readTime: "4 Min Read" },
   ],
 };
 
